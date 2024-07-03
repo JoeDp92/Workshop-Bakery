@@ -1,0 +1,12 @@
+{
+  "_id": {
+    "$oid":"64759e4c3beb40594cb859ed"
+  },
+  "name": "Cheese Cake",
+  "shortDescription": "Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese (typically cottage cheese, cream cheese or ricotta), eggs, and sugar. ",
+  "description": "Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese (typically cottage cheese, cream cheese or ricotta), eggs, and sugar. If there is a bottom layer, it most often consists of a crust or base made from crushed cookies (or digestive biscuits), graham crackers, pastry, or sometimes sponge cake.[1] Cheesecake may be baked or unbaked (and is usually refrigerated).",
+  "image":"https://sallysbakingaddiction.com/wp-content/uploads/2018/05/perfect-cheesecake-recipe.jpg",
+  "ingredients": [ "graham cracker crumbs", "sugar", "eggs", "butter", "sour cream", "cream cheese", "vanilla extract" ],
+  "recipe": "Mix graham cracker crumbs and melted butter for the crust. Press into a pan. Beat cream cheese, sugar, and vanilla. Fold in whipped cream. Pour over the crust. Refrigerate until set, remove from pan, and serve chilled with desired toppings.",
+  "stock": 40
+}
